@@ -1,0 +1,26 @@
+{
+  "name": "borschik-tech-css-ometajs",
+  "description": "borschik CSS tech based on OMetaJS",
+  "version": "0.0.1",
+  "homepage": "http://github.com/bem/borschik-tech-css-ometajs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem/borschik-tech-css-ometajs.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+      "ometajs": "~3.2.4",
+      "cssp": "~1.0.6"
+  },
+  "devDependencies": {
+    "borschik": "0.4.x",
+    "mocha": "1.12.x"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -u bdd -R spec"
+  },
+  "engines": [
+    "node >= 0.6.0"
+  ],
+  "licence": "MIT"
+}

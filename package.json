@@ -2,10 +2,10 @@
   "name": "borschik-tech-css-ometajs",
   "description": "borschik CSS tech based on OMetaJS",
   "version": "0.0.1",
-  "homepage": "http://github.com/bem/borschik-tech-css-ometajs",
+  "homepage": "http://github.com/borschik/borschik-tech-css-ometajs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bem/borschik-tech-css-ometajs.git"
+    "url": "git://github.com/borschik/borschik-tech-css-ometajs.git"
   },
   "main": "index.js",
   "dependencies": {
